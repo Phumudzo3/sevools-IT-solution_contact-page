@@ -1,0 +1,14 @@
+@media(max-width:480px){
+  
+ header{
+ flex-direction: column;;
+
+ }
+ .logo  ,.nav span{ font-size: 12px;
+    margin-left: auto ;
+    margin-right: auto;
+    color:white;}
+ }
+ .logo{
+    padding-right: 25px;
+ }
